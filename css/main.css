@@ -1,5 +1,6 @@
 html {
   font-family: Lora, serif;
+  color: #fff;
 }
 
 .masthead {
@@ -23,7 +24,7 @@ html {
 }
 
 .banner {
-
+  background-image: url(../images);
 }
 
 .banner-content {
