@@ -5,14 +5,14 @@ html {
 
 .masthead {
   background-color: #588477;
-  background-image: url(../images/leaf-bg.svg);
+  background-image: url("../images/leaf-bg.svg");
   border: 10em;
   border-color: #2d5a4d;
 }
 
 .logo {
   text-align: center;
-  background-image: url(../images/two-leaves.svg);
+  background-image: url("../images/two-leaves.svg");
 }
 
 .nav {
@@ -26,12 +26,13 @@ html {
 
 .nav a:hover {
   background-color: #fff;
-  color: ##588477;
-  border-color: ##2d5a4d;
+  color: #588477;
+  border-color: #2d5a4d;
+  background-image: url("../images/leaf-icon.svg");
 }
 
 .banner {
-  background-image: url(../images/dewy-leaf.jpg);
+  background-image: url("../images/dewy-leaf.jpg");
 }
 
 .banner-content {
