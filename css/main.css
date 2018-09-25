@@ -25,7 +25,9 @@ html {
 }
 
 .nav a:hover {
-
+  background-color: #fff;
+  color: ##588477;
+  border-color: ##2d5a4d;
 }
 
 .banner {
